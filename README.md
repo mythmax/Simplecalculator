@@ -3,6 +3,7 @@
 
 📱 About:
 Simple Calculator is a lightweight and minimalist Android application that performs four basic arithmetic operations. No unnecessary features — just fast and accurate calculations.
+
 ✨ Features
 
 ➕ Addition of two numbers
